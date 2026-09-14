@@ -1,0 +1,45 @@
+# Окружение виртуальной среды (если создавали venv)
+venv/
+.env/
+
+# Кэш Python и Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Временные файлы и логи
+*.log
+.DS_Store
+
+# Исключаем локальное окружение Conda
+env/
+.conda/
+conda-env/
+
+# Исключаем файлы сборки и кэш Conda
+.condarc
+conda-meta/
+
+# Файлы среды разработки
+.idea/
+.vscode/
+*.iml
+
+# Логи и временные файлы
+*.log
+*.bak
+*.swp
+
+# Системные файлы
+Thumbs.db  # Windows
+.DS_Store  # macOS 
+
+determine_age.ipynb
+окружение my13_env.txt
+ds_s13_visits.csv
+ds_s13_users.csv
+ads_activity.csv
+surf_depth,csv
+primary_device.csv
+cloud_usage.csv
+
+
