@@ -34,6 +34,7 @@ Thumbs.db  # Windows
 .DS_Store  # macOS 
 
 determine_age.ipynb
+determine_age2.ipynb
 окружение my13_env.txt
 ds_s13_visits.csv
 ds_s13_users.csv
